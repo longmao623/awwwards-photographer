@@ -1,0 +1,6 @@
+﻿
+> awwwards-photographer@0.0.0 build
+> tsc -b && vite build
+
+src/App.tsx(1,24): error TS2307: Cannot find module 'framer-motion' or its corresponding type declarations.
+src/App.tsx(2,56): error TS2307: Cannot find module 'lucide-react' or its corresponding type declarations.

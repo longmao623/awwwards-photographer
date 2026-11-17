@@ -1,0 +1,11 @@
+{
+  "frontmatter_ok": true,
+  "total_chars": 12412,
+  "checks": {
+    "宁可将简单项目走 baton": true,
+    "视觉验证执行清单": true,
+    "三列不可为空": true,
+    "熔断规则": true,
+    "比赛设计（Beta/未验证）": true
+  }
+}
